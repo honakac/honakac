@@ -9,9 +9,6 @@
 #### Languages:
 ![Languages](https://skillicons.dev/icons?i=c,cpp,nodejs)
 
-#### Social:
-discord: `r2u2`
-
 ![r2u2's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2U2&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515)
 
 </div>
