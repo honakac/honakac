@@ -1,14 +1,5 @@
-<div align="center">
-
-#### OS:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-#### IDE:
-![Languages](https://skillicons.dev/icons?i=vscode)
-
-#### Languages:
-![Languages](https://skillicons.dev/icons?i=c,cpp,nodejs)
-
-![r2u2's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2U2&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515)
-
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honakac&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=honakac&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=honakac&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honakac&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=honakac&theme=2077&utcOffset=5)
