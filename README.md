@@ -2,7 +2,7 @@
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <img src="https://github.com/TolyaGosuslugi/tolyagosuslugi/blob/main/ezgif.com-optimize%20(2).gif?raw=true" height="100px">
+        <img src="https://github.com/TolyaGosuslugi/tolyagosuslugi/blob/main/ezgif.com-optimize%20(2).gif?raw=true">
       </picture>
     </a></td>
     <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
