@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://www.codewars.com/users/HonakAC/badges/micro">
-  <img src="https://wakatime.com/badge/user/3365fc6d-3078-47ef-8533-5ba7525c8ef5.svg">
-</div>
 <table width="100%" align="center">
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
@@ -57,3 +53,7 @@
     </a></td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://www.codewars.com/users/HonakAC/badges/micro">
+  <img src="https://wakatime.com/badge/user/3365fc6d-3078-47ef-8533-5ba7525c8ef5.svg">
+</div>
