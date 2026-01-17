@@ -54,6 +54,6 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://www.codewars.com/users/HonakAC/badges/micro">
-  <img src="https://wakatime.com/badge/user/3365fc6d-3078-47ef-8533-5ba7525c8ef5.svg">
+  <a href="https://www.codewars.com/users/HonakAC"><img src="https://www.codewars.com/users/HonakAC/badges/micro"></a>
+  <a href="https://wakatime.com/@honakac"><img src="https://wakatime.com/badge/user/3365fc6d-3078-47ef-8533-5ba7525c8ef5.svg"></a>
 </div>
