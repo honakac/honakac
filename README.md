@@ -43,12 +43,12 @@
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=honakac&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=honakac&utcOffset=5&border_color=0000&bg_color=0000&theme=nord_dark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=honakac&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=honakac&utcOffset=5&border_color=0000&bg_color=0000&theme=nord_bright"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=honakac&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=honakac&utcOffset=5&border_color=0000&bg_color=0000" height="100%" />
       </picture>
     </a></td>
   </tr>
@@ -56,4 +56,5 @@
 <div align="center">
   <a href="https://www.codewars.com/users/HonakAC"><img src="https://www.codewars.com/users/HonakAC/badges/micro"></a>
   <a href="https://wakatime.com/@honakac"><img src="https://wakatime.com/badge/user/3365fc6d-3078-47ef-8533-5ba7525c8ef5.svg"></a>
+
 </div>
