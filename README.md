@@ -63,7 +63,7 @@
 
 #### IDE
 
-![LazyVim](https://img.shields.io/badge/LazyVim-black?style=for-the-badge&logo=lazyvim&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-blue?style=for-the-badge&logo=lazyvim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 #### Languages
