@@ -56,15 +56,19 @@
 
 <div align="center">
 
-  #### OS:
-  ![Debian](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=debian&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white)
-  
-  #### IDE:
-  ![Zed](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zedindustries&logoColor=white)
-  
-  #### Languages:
-  ![Languages](https://skillicons.dev/icons?i=go,c,bash)
+#### OS
+
+![Debian](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=debian&logoColor=white)
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white)
+
+#### IDE
+
+![LazyVim](https://img.shields.io/badge/LazyVim-black?style=for-the-badge&logo=lazyvim&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zedindustries&logoColor=white)
+
+#### Languages
+
+![Languages](https://skillicons.dev/icons?i=go,c,bash)
 
 </div>
 
